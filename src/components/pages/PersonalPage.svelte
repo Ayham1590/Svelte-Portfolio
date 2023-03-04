@@ -165,10 +165,10 @@
 
 	<div class="w-full flex flex-row flex-nowrap gap-x-4 p-4 overflow-x-hidden mt-4">
 		<div class="w-64 h-24 bg-gray-400 rounded-md p-2 grid grid-cols-2 grid-rows-2">
-			<div>Titles and stuff 1</div>
-			<div>Logo 1</div>
+			<div>Titles and stuff </div>
+			<div>Logo </div>
 
-			<div class="col-span-2">Text content 1</div>
+			<div class="col-span-2">Text content </div>
 		</div>
 	</div>
 </div>
