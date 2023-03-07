@@ -168,7 +168,7 @@
 			<div>Titles and stuff </div>
 			<div>Logo </div>
 
-			<div class="col-span-2">Text content555 </div>
+			<div class="col-span-2">Text content 555 </div>
 		</div>
 	</div>
 </div>
