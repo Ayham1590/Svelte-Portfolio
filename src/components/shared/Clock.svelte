@@ -66,7 +66,7 @@
 				</span>
 				<span
 					class="pl-6 text-indigo-400 group-hover:text-gray-100 transition duration-200 text-lg font-bold"
-					>Welcome &darr;</span
+					>Welcome here &darr;</span
 				>
 			</button>
 		</div>
