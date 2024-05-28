@@ -32,19 +32,7 @@
 	}, 1000);
 </script>
 
-<!-- <div class="h-full w-full rounded-md bg-gradient-to-r p-1 from-secondary to-accent"> 
-<div class="flex flex-row gap-x-4 h-24 w-full items-center justify-between">
-	 <div class=" h-full w-full bg-gray-800 back flex flex-row">
-	<div class="flex items-center w-full justify-center text-3xl text-white font-bold">{day}</div>
-	<div class="text-3xl flex items-center">:</div>
-	<div class="flex items-center w-full justify-center text-3xl text-white font-bold">{hrs}</div>
-	<div class="text-3xl flex items-center">:</div>
-	<div class="flex items-center w-full justify-center text-3xl text-white font-bold">{min}</div>
-	<div class="text-3xl flex items-center">:</div>
-	<div class="flex items-center w-full justify-center text-3xl text-white font-bold">BKK</div>
-</div>
-</div>
-</div>  -->
+
 <div class="px-8 py-2">
 	<div class="grid gap-8 items-start justify-center">
 		<div class="relative group">
